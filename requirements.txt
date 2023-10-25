@@ -1,0 +1,6 @@
+#latest versions will be installed
+
+numpy
+pandas
+jupyter
+mypy
