@@ -1,4 +1,4 @@
-name : str = 4
+name : str = "kk"
 
 print(name) # print
 print(type(name)) # type

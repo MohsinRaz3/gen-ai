@@ -7,3 +7,5 @@ mypy
 openpyxl
 matplotlib
 PyPDF2
+nptyping
+beartypes
